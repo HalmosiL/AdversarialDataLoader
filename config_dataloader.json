@@ -1,0 +1,8 @@
+{
+    "EXECUTOR_MAIN_CONFIGS_PATH": "../adversarialloader_final_depoly/config_main.json",
+    "EXECUTOR_CONFIGS_PATH": "../adversarialloader_final_depoly/Configs/",
+    "DATA_QUEUE_PATH": "../adversarialloader_final_depoly/data_queue/",
+    "BATCH_SIZE": 8,
+    "NUMBER_OF_WORKERS":0 
+}
+
